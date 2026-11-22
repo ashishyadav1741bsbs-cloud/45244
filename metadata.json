@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Creator",
+  "description": "AI-powered video studio for Text-to-Video, Image-to-Video, and Script-to-Video projects up to 30 minutes with Hindi & English support, character consistency, scene timeline editing, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
